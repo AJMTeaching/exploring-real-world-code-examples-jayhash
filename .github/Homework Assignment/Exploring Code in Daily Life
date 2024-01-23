@@ -1,0 +1,50 @@
+
+## Assignment Submissions
+
+# Code that specifies when an alarm clock should start making audible sounds.
+[https://github.com/ROSHAN-KHANDAGALE/Alarm-Clock/blob/main/main.py]
+Lines 6-17
+So the code that specifies when an alarm clock should start making audible sounds is created by entering a set time, and once that set time matches the local time in the real world, an update in the code will signify that an audible sound should go off. 
+# Automated email response system.
+[https://github.com/PaulleDemon/Email-automation/blob/master/email_automation/middlewares.py]
+Lines 12-34
+While i'm not entirely sure, I think that the code here is supposed to process whatever file is sent in an e-mail, and once the process is done it is supposed to send an automated response, unless the file that was sent in the e-mail is rate limited which in that case the response is supposed to "soft-lock" temporarily to cool down. Kind of like if you forgot your password and kept requesting it to be sent to your e-mail.
+# Online voting system mechanics.
+[https://github.com/shah-deep/Online-Voting-System/blob/main/voter.py]
+Lines 25-54
+What I think is happening in this text is that, on this specific section of the code it's creating a page where you cast your vote, and each little blurb of code includes the name of a candidate, their photo and a variable which i'm assuming is in button form, that allows the voter to vote for that person.
+# E-commerce checkout system process.
+[https://github.com/Riadz/E-commerce/blob/master/checkout.php]
+Lines 43-158
+So, what i'm assuming is happening here is that this specific chunk of code lists out the checkout, which includes the different payment options. In this code it has Paypal and Pay Hand-to-Hand which has you enter credit card info. It also includes the shipping address and when the code should process your payment and notify the user that the payment went through. 
+# Social media post scheduler.
+[https://github.com/mfcodeworks/Social-Media-Post-Scheduler/blob/master/index.php]
+Lines 45-82
+What I think is happening in this code is that the code is accounting for post that you want to put out to whichever social media platform. The code takes note of the date, any images and text assigned to the post. The last part lists the timezone, which im assuming will note when the post should go up online and then the last bit is for the submit button.
+# Fitness app calorie counter.
+[https://github.com/turulomio/caloriestracker/blob/master/caloriestracker/caloriestracker_console.py]
+Lines 38-63
+Not sure if this is entirely correct, however what I gaged from this code is that the way it tracks calories is by having the app user enter the amount of each fiber, carbs, all of that stuff. I'm assuming after you enter the information the app should keep track of any growth you've gained from whatever information that's been entered.
+# Weather forecasting algorithm.
+[https://github.com/Hrishikesh332/Weather-Forecasting-Using-ML/blob/main/weather-prediction-model-precision-comparison.ipynb?short_path=454097b]
+Lines 647-771
+So in this specfic bit, the code points out this is how the machine learns for predicting weather, and from what I see the code accounts for precipitation, maximum and minimum temprature and wind. Using those pieces of data from what i'm assuming is past weather and then crossing it with the current temprature I assume that helps predict weather for the future based on any patterns. Hence the X and Y.
+# File compression utility algorithm.
+[https://github.com/sam15jain/file_compressor/blob/master/script.js]
+Lines 359-390
+So not entirely sure if this is correct, but from what I read this code detects when you've uploaded a file to be compressed on their website. It can detect if you upload a empty file, a small file or one that can be compressed. The file reader i'm assuming goes through the information uploaded and compresses it. Not sure though.
+# Code for a rocket targeting system.
+[https://github.com/abnsl0014/Missile-Guidance-System/blob/master/Trajectory.ipynb]
+Can't leave a line in the actual code cause everything appears in Line 1 for some reason, but in the preview there's a section that indicates where it creates a target for test sections which i'm assuming the values you put in are coordinates for a given target. 
+# How a search engine can find a subject.
+[https://github.com/m7md-arwani/-Simple-Search-Engine/blob/master/Simple%20Search%20Engine/task/src/search/Main.java]
+Lines 26-58
+What's happening in this code is that the search engine gains access to a public database, which in this case i'm assuming is through email and searches through that data to find the person that you're looking for. If that person does not match any data that currently exists it will say that there are no matches found, but if it does find someone the code will notify the user that the person is found.
+# Location Tracker.
+[https://github.com/duskdev17/python-location-tracking/blob/main/location.html]
+Lines 10-31
+I'm not entirely sure, but what I see in this code is that accesses the relative position of a person through whatever device they have. Using a coordinate system and i'm assuming it marks it on the folium map. Not entiely sure about this one.
+# English to Spanish Translator
+[https://github.com/GargPriyanshu1112/English-to-Spanish-Translator/blob/main/machine_translation.ipynb?short_path=f9296f8]
+Lines 105-218
+So what's happening in this is that it connects the English sentence and it just takes that and pairs it with a Spanish sentence, and within the code it includes some examples of translations. 
